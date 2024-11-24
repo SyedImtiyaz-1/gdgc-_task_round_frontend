@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Elements -->
+    <circle cx="400" cy="300" r="280" fill="#F8F9FF"/>
+    <circle cx="400" cy="300" r="200" fill="#EEF1FF"/>
+    
+    <!-- Medical Cross Symbol -->
+    <g transform="translate(350, 100)">
+        <rect x="0" y="0" width="100" height="30" rx="15" fill="#6B4CE6"/>
+        <rect x="35" y="-35" width="30" height="100" rx="15" fill="#6B4CE6"/>
+    </g>
+    
+    <!-- Doctor Figure -->
+    <g transform="translate(300, 150)">
+        <!-- Head -->
+        <circle cx="100" cy="80" r="60" fill="#6B4CE6"/>
+        
+        <!-- Body -->
+        <path d="M40 150 Q100 140 160 150 L180 400 H20 L40 150" fill="#6B4CE6"/>
+        
+        <!-- Stethoscope -->
+        <path d="M80 200 Q60 250 90 280 T120 320" stroke="#8E72FF" stroke-width="8"/>
+        <circle cx="120" cy="320" r="15" fill="#8E72FF"/>
+    </g>
+    
+    <!-- Decorative Elements -->
+    <g opacity="0.6">
+        <circle cx="150" cy="150" r="20" fill="#8E72FF"/>
+        <circle cx="650" cy="450" r="30" fill="#8E72FF"/>
+        <circle cx="200" cy="500" r="15" fill="#8E72FF"/>
+        <circle cx="600" cy="200" r="25" fill="#8E72FF"/>
+    </g>
+    
+    <!-- Abstract Lines -->
+    <g stroke="#8E72FF" stroke-width="4" opacity="0.3">
+        <path d="M100 300 Q200 350 300 300"/>
+        <path d="M500 300 Q600 250 700 300"/>
+        <path d="M200 400 Q300 450 400 400"/>
+    </g>
+    
+    <!-- Medical Icons -->
+    <g transform="translate(500, 150)">
+        <circle cx="0" cy="0" r="30" fill="#6B4CE6" opacity="0.2"/>
+        <path d="M-15 0 H15 M0 -15 V15" stroke="#6B4CE6" stroke-width="4"/>
+    </g>
+    
+    <g transform="translate(200, 350)">
+        <circle cx="0" cy="0" r="25" fill="#6B4CE6" opacity="0.2"/>
+        <path d="M-10 0 H10 M0 -10 V10" stroke="#6B4CE6" stroke-width="3"/>
+    </g>
+    
+    <!-- Pulse Line -->
+    <path d="M50 500 L150 500 L200 400 L250 600 L300 450 L350 500 L450 500" 
+          stroke="#6B4CE6" 
+          stroke-width="4"
+          fill="none"
+          opacity="0.5"/>
+</svg>
