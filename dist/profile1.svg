@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Circle -->
+    <circle cx="30" cy="30" r="30" fill="#FF5722"/>
+    
+    <!-- Face Shape -->
+    <circle cx="30" cy="25" r="12" fill="#FFF"/>
+    
+    <!-- Body -->
+    <path d="M15 55C15 44.5066 21.7157 36 30 36C38.2843 36 45 44.5066 45 55" fill="#FFF"/>
+</svg>

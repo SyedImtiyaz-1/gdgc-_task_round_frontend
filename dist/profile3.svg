@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Circle -->
+    <circle cx="30" cy="30" r="30" fill="#8E72FF"/>
+    
+    <!-- Face Shape -->
+    <circle cx="30" cy="24" r="11" fill="#FFF"/>
+    
+    <!-- Body -->
+    <path d="M18 55C18 42.5066 23.7157 35 30 35C36.2843 35 42 42.5066 42 55" fill="#FFF"/>
+    
+    <!-- Headphones -->
+    <path d="M20 24C20 18.4772 24.4772 14 30 14C35.5228 14 40 18.4772 40 24" stroke="#333" stroke-width="2"/>
+    <rect x="18" y="22" width="4" height="8" rx="2" fill="#333"/>
+    <rect x="38" y="22" width="4" height="8" rx="2" fill="#333"/>
+</svg>
