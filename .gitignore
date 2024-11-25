@@ -39,3 +39,4 @@ dist-ssr
 .cache
 .temp
 .eslintcache
+.vercel
