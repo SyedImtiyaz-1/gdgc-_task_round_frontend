@@ -23,11 +23,11 @@ const Hero = () => {
                                     PRETENTIOUS
                                 </div>
                                 <div className={`heading-line with-circles ${isVisible ? 'visible' : ''}`} style={{ transitionDelay: '0.6s' }}>
-                                    <span className="heading-profile">
+                                    {/* <span className="heading-profile">
                                         <img src="./profile1.svg"  className="profile-img" />
                                         <img src="./profile2.svg"  className="profile-img" />
                                         <img src="./profile3.svg"  className="profile-img" />
-                                    </span>
+                                    </span> */}
                                     <span>IDEAS</span>
                                 </div>
                             </h1>
