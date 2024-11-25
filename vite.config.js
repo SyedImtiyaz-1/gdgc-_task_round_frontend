@@ -12,6 +12,7 @@ export default defineConfig({
     },
   },
   build: {
-    outDir: 'dist', // Output folder for the built frontend
+    outDir: 'dist',
   },
+  base: './', // Ensures assets use relative paths
 });
